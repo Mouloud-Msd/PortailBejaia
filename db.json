@@ -1,0 +1,176 @@
+{
+  "hotels": [
+    {
+      "id": 0,
+      "Title": "Hotel Atlantis",
+      "adress": "Iryahen Tala Hamza, Béjaïa, Béjaïa",
+      "content": "Lors de votre séjour dans Hotel Atlantis, vous ne serez qu'à quelques minutes de Parc National de Gouraya. Vous pourrez profiter de services et équipements comme le petit-déjeuner gratuit, l'accès Wi-Fi à Internet gratuit et un parking gratuit.",
+      "image": "shorturl.at/hwy02",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 1,
+      "Title": "Hotel Du Nord",
+      "adress": " Boulevard Colonel Amirouche, Béjaïa,",
+      "content": "Lors de votre séjour dans Hotel Du Nord, vous ne serez qu'à 5,7 km de Parc National de Gouraya. Dans cet établissement, vous profiterez de prestations de choix comme le petit-déjeuner gratuit et un restaurant.",
+      "image": "shorturl.at/czEZ8",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 2,
+      "Title": "Hotel Les Hammadites",
+      "adress": "Tichy Bejaia, Béjaïa, Béjaïa Province",
+      "content": "Hotel Les Hammadites propose des services et équipements comme l'accès Wi-Fi à Internet gratuit, un parking gratuit, sans oublier un restaurant. ;Wi-Fi gratuit;Parking sans service de voiturier gratuit; Vous profiterez de spécialités de la cuisine locale et internationale à Les Hammadites",
+      "image": "https://images.trvl-media.com/hotels/14000000/13240000/13232800/13232716/f382cac8_z.jpg",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 3,
+      "Title": "Hotel Royal",
+      "adress": "ROUTE DE L'UNIVERSITE IHADDADENE,, Bejaia, BJA",
+      "content": "Lors de votre séjour dans Hotel Royal, vous ne serez qu'à quelques minutes de Parc National de Gouraya. Dans cet établissement, vous profiterez de prestations de choix comme un restaurant et un bar, sans oublier un café, Pour prendre un verre ou vous restaurer, vous trouverez sur place un café, un restaurant et un bar / salon",
+      "image": "https://images.trvl-media.com/hotels/14000000/13240000/13239200/13239167/94bd556c_z.jpg",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 4,
+      "Title": "Golden H Bejaia",
+      "adress": "Rue des Freres Tabet, Béjaïa, Béjaïa Province",
+      "content": "Lors de votre séjour dans Golden H Bejaia, vous ne serez qu'à quelques minutes de Parc National de Gouraya. L'accès Wi-Fi à Internet gratuit, un parking gratuit et un restaurant sont disponibles, Si vous avez un creux, vous pourrez reprendre des forces au restaurant sur place",
+      "image": "https://images.trvl-media.com/hotels/77000000/76320000/76318600/76318557/381027b6_z.jpg",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 5,
+      "Title": "Hotel Chrea",
+      "adress": "04 Bd Krim Belkacem, Béjaïa 06000",
+      "content": "L'hôtel Chréa est situé en plein centre urbain de la ville de Béjaïa, à proximité de la maison de la culture et du carrefour Aâmriou, sur le grand boulevard Krim Belkacem...",
+      "image": "shorturl.at/rsGOT",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 6,
+      "Title": "Hôtel Le Zéphyr",
+      "adress": "N24 Bd Krim Belkacem, Béjaïa 06000",
+      "content": "Situé dans un quartier commerçant animé, à proximité de la route N24, cet hôtel de style décontracté se trouve à 5 km de l'aéroport de Soummam-Abane Ramdane et à 8 km de la plage des Aiguad...",
+      "image": "shorturl.at/xEIOX",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 7,
+      "Title": "HÔTEL LE PALACE",
+      "adress": "Q345+83W، RUE DES FRERES MELLALI، ROUTE DE SIDI AHMED, Béjaïa",
+      "content": "Le Residence le Palace est un hôtel proposant des chambres équipées d'une kitchenette. Vous pouvez également compter sur un wi-fi gratuit pour rester connecté tout au long de votre séjour.",
+      "image": "shorturl.at/joruP",
+      "date": "2020-06-11T12:50-0500"
+    }
+  ],
+  "places": [
+    {
+      "id": 0,
+      "Title": "Cap Carbon",
+      "long": "5.10217",
+      "lat": "36.77467",
+      "content": "Le Cap Carbon est un cap algérien situé dans la Wilaya de Béjaïa, au nord du port de Béjaïa. Il est équipé d'un phare, édifié à 220 m au-dessus du niveau de la mer, ce qui en fait un des plus hauts phares de la Mer Méditerranée.",
+      "image": "shorturl.at/ezAFQ"
+    },
+    {
+      "id": 1,
+      "Title": "Pic des Singes",
+      "long": "5.09632",
+      "lat": "36.76943",
+      "content": "Le pic des Singes est un pic du nord de l'Algérie, au nord-ouest de la ville de Béjaïa. Il est situé dans la zone Cap Carbon de la chaîne de l'Atlas tellien, sur la côte méditerranéenne.",
+      "image": "shorturl.at/DJOZ4"
+    },
+    {
+      "id": 2,
+      "Title": "Parc national de Gouraya",
+      "long": "5.08655",
+      "lat": "36.77168",
+      "content": "c'est un parc national algérien, situé dans la wilaya de Béjaïa en Kabylie, au nord de l'Algérie et au bord de la Méditerranée. Il accueille environ 1 200 000 visiteurs par an, surtout en période estivale.",
+      "image": "shorturl.at/cADEF"
+    },
+    {
+      "id": 3,
+      "Title": "Lac Noir",
+      "long": "4.60273",
+      "lat": "36.69637",
+      "content": "Le lac Noir est un lac situé dans le massif montagneux de l'Akfadou à l'ouest de la wilaya de Béjaïa, Situé à plus de 1.200 m d’altitude, le lac s’étend sur une superficie de près de 10 ha. Ce biotope abrite plusieurs espèces d’animaux et de plantes protégés..",
+      "image": "shorturl.at/dAHX9"
+    },
+    {
+      "id": 4,
+      "Title": "Cascades Kefrida",
+      "long": "5.28962",
+      "lat": "36.57066",
+      "content": "Les cascades de Kefrida sont des chutes d'eau situées près du village d'Ait Idriss, dans la commune de Taskriout (wilaya de Béjaïa), en Algérie, Leur hauteur totale est de 55 mètres.",
+      "image": "shorturl.at/bfjtE"
+    },
+    {
+      "id": 5,
+      "Title": "Plage Tighremt",
+      "long": "4.86447",
+      "lat": "36.86693",
+      "content": "La plage de Tighremt est située à l'ouest du centre ville de bejaia. c'est une plage autorisées à la baignade qui fait 72 000 mètres carrée de superficie, sa longueur est de 1 200 mètres, et sa largeur est de 60 mètres carrée.",
+      "image": "shorturl.at/cjES0"
+    },
+    {
+      "id": 6,
+      "Title": "La place Guidon",
+      "long": ", 5.08549",
+      "lat": "36.75265",
+      "content": "Place incontournable à Béjaia avec sa belle vue du port. Les petites ruelles pavées, les quartiers voisins valent aussi le détour. La qualité de service des cafétérias de la place laisse par contre à désirer..",
+      "image": "shorturl.at/fpqU6"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 0,
+      "Title": "La petite cabane",
+      "adress": "Q325+H54, Boulevard de l'A.L.N, Béjaïa",
+      "content": "Rien que le nom nous promet un moment détendu et agréable, car effectivement, ici, on se sent Comme chez soi. Ce restaurant aux airs de cantine chaleureuse sert des plats traditionnels.",
+      "image": "shorturl.at/adilE",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 1,
+      "Title": "L'oiseau Bleu Béjaïa",
+      "adress": "Rue Boudechicha Tahar, Béjaïa",
+      "content": "Fréquenté par les hommes d'affaires, les ambassades et ses habitués, le Palmier est sans doute la seule table pour un dîner en ville. Poissons frais selon l'arrivage : rouget, merlan, espadon, sépia…",
+      "image": "shorturl.at/ePY78",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 2,
+      "Title": "Restaurant O'feeling",
+      "adress": "Promotion Sabrachou, Quartier Seghire, 06000 Bejaïa,",
+      "content": "Presque insoupçonnable de l'extérieur, ce restaurant d'hôtel est un très bon plan, fréquenté essentiellement par des étrangers. C'est d'ailleurs sûrement le meilleur établissement de tout Bejaïa. Dans un cadre élégant, vous dégusterez une cuisine semi-gastronomique à base de produits locaux",
+      "image": "shorturl.at/pyJQ5",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 3,
+      "Title": " DALI BOU LA GLACE",
+      "adress": "Rond-point du centre-ville Bejaïa",
+      "content": "S’il y a bien un endroit connu des locaux et des vacanciers en quête d'un délice rafraîchissant, c'est bien le stand de glace d'Ali Kenniche. Depuis 1958, il travaille dans la glace et, peu à peu, il est devenu Dali Bou la Glace. ",
+      "image": "shorturl.at/duN25",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 4,
+      "Title": "Tacos City",
+      "adress": "180/500 Cite La Pepiniere, Bejaia, Algérie",
+      "content": "Nous sommes un restaurant concept spécialiste du French Tacos. Un menu riche, dont vous êtes le compositeur avec un choix de plus de 40 000 compositions possibles.",
+      "image": "shorturl.at/ajY47",
+      "date": "2020-06-11T12:50-0500"
+    },
+    {
+      "id": 5,
+      "Title": "Tacos City",
+      "adress": "180/500 Cite La Pepiniere, Bejaia, Algérie",
+      "content": "Nous sommes un restaurant concept spécialiste du French Tacos. Un menu riche, dont vous êtes le compositeur avec un choix de plus de 40 000 compositions possibles.",
+      "image": "shorturl.at/lsuzF",
+      "date": "2020-06-11T12:50-0500"
+    }
+  ]
+}
